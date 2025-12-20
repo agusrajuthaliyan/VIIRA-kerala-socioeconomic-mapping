@@ -16,7 +16,7 @@ The dashboard provides interactive tools for exploratory spatial analysis, compa
 
 1.  **Clone the repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/agusrajuthaliyan/VIIRA-kerala-socioeconomic-mapping.git
     cd VIIRA
     ```
 
