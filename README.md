@@ -18,7 +18,7 @@ Here are a few high-resolution map renders generated for various cities in Keral
 
 <p align="center">
   <img src="Resources/Cities/Kerala.png" width="48%" alt="Kerala" />
-  <img src="Resources/Cities/kerala1.png" width="48%" alt="Kerala Alternate" />
+  <img src="Resources/Cities/Thrissur-emarald.png" width="48%" alt="Thrissur Emerald" />
 </p>
 <p align="center">
   <img src="Resources/Cities/kochi-neon.png" width="48%" alt="Kochi Neon" />
@@ -28,9 +28,7 @@ Here are a few high-resolution map renders generated for various cities in Keral
   <img src="Resources/Cities/kozhikode-rustic.png" width="48%" alt="Kozhikode Rustic" />
   <img src="Resources/Cities/trivandrum-blueprint.png" width="48%" alt="Trivandrum Blueprint" />
 </p>
-<p align="center">
-  <img src="Resources/Cities/Thrissur-emarald.png" width="48%" alt="Thrissur Emerald" />
-</p>
+
 
 ## 🛠️ Installation
 
