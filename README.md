@@ -12,6 +12,26 @@ The dashboard provides interactive tools for exploratory spatial analysis, compa
 *   **High-Quality Exports**: Tools to generate and download publication-ready figures (maps and charts) with customizable high-contrast themes (Pure Black, Dark, White).
 *   **Advanced Scaling**: Robust data normalization options including Logarithmic, Percentile Clipping, and Linear scaling to handle skewed geospatial data.
 
+## 🏙️ City Visualizations
+
+Here are a few high-resolution map renders generated for various cities in Kerala:
+
+<p align="center">
+  <img src="Resources/Cities/Kerala.png" width="48%" alt="Kerala" />
+  <img src="Resources/Cities/kerala1.png" width="48%" alt="Kerala Alternate" />
+</p>
+<p align="center">
+  <img src="Resources/Cities/kochi-neon.png" width="48%" alt="Kochi Neon" />
+  <img src="Resources/Cities/ernakulam-noir.png" width="48%" alt="Ernakulam Noir" />
+</p>
+<p align="center">
+  <img src="Resources/Cities/kozhikode-rustic.png" width="48%" alt="Kozhikode Rustic" />
+  <img src="Resources/Cities/trivandrum-blueprint.png" width="48%" alt="Trivandrum Blueprint" />
+</p>
+<p align="center">
+  <img src="Resources/Cities/Thrissur-emarald.png" width="48%" alt="Thrissur Emerald" />
+</p>
+
 ## 🛠️ Installation
 
 1.  **Clone the repository**:
